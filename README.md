@@ -9,7 +9,8 @@ A work-in-progress by someone who does not know much but is curious.
 
 
 ## Resources
-- [ ] [Self-guided course on compilers from Stanford](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+- [ ] [Comprehensive Free Stanford course on Compilers](https://www.edx.org/course/compilers)
+- [ ] [Self-guided course on compilers from Cornell](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [ ] [How to Learn Compilers](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] [Coursera Software Security](https://www.coursera.org/learn/software-security)
