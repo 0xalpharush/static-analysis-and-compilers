@@ -1,14 +1,17 @@
 # Static Analysis / Compiler, help me?
+
 ### What is this?
-A work-in-progress by someone who does not know much but is curious. 
+
+A work-in-progress by someone who does not know much but is curious.
 
 ### Objectives
+
 - Backfill knowledge of computers and programming languages
 - ...
 - profit
 
-
 ## Resources
+
 - [ ] [Self-guided course on compilers from Stanford](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [ ] [How to Learn Compilers](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -18,9 +21,12 @@ A work-in-progress by someone who does not know much but is curious.
 
 ## Concepts
 
-* [Control Flow Graph](https://en.wikipedia.org/wiki/Control-flow_graph)
-* [Intermediate Representation](https://en.wikipedia.org/wiki/Intermediate_representation)
-  * Rust's intermediate representation, MIR: https://blog.rust-lang.org/2016/04/19/MIR.html
-* [Data Dependency](https://en.wikipedia.org/wiki/Data_dependency)
+- [Control Flow Graph](https://en.wikipedia.org/wiki/Control-flow_graph)
+- [Intermediate Representation](https://en.wikipedia.org/wiki/Intermediate_representation)
+  - Rust's intermediate representation, MIR: https://blog.rust-lang.org/2016/04/19/MIR.html
+- [Data Dependency](https://en.wikipedia.org/wiki/Data_dependency)
+  - Dataflow (Reichenbach)
+    - [ ] [Lecture](https://web.archive.org/web/20200221205557/https://www.youtube.com/watch?v=NVBQSR_HdL0)
+    - [ ] [Additional material](http://creichen.net/projects.html)
   * Classifications: https://www.youtube.com/watch?v=S4faoqIff7I
-* [Single Static Assignment Form](https://en.wikipedia.org/wiki/Static_single_assignment_form)
+- [Single Static Assignment Form](https://en.wikipedia.org/wiki/Static_single_assignment_form)
