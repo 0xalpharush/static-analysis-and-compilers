@@ -17,6 +17,7 @@ A work-in-progress by someone who does not know much but is curious.
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] [Coursera Software Security](https://www.coursera.org/learn/software-security)
 - [ ] [Norswap's compiler class](https://norswap.com/compilers/)
+- [ ] [Compilers: Principles and Practice (Purdue)](https://www.cs.purdue.edu/homes/hosking/502/notes/index.html)
 - [ ] TBD [Random course on youtube](https://youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C)
 
 ## Concepts
