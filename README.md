@@ -18,6 +18,7 @@ A work-in-progress by someone who does not know much but is curious.
 - [ ] [Coursera Software Security](https://www.coursera.org/learn/software-security)
 - [ ] [Norswap's compiler class](https://norswap.com/compilers/)
 - [ ] [Compilers: Principles and Practice (Purdue)](https://www.cs.purdue.edu/homes/hosking/502/notes/index.html)
+- [ ] [Introduction to Compilers (Cornell)(https://www.cs.cornell.edu/courses/cs4120/2022sp/notes/)
 - [ ] TBD [Random course on youtube](https://youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C)
 
 ## Concepts
