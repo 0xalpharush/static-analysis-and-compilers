@@ -21,7 +21,7 @@ A work-in-progress by someone who does not know much but is curious.
 - [ ] [Introduction to Compilers (Cornell](https://www.cs.cornell.edu/courses/cs4120/2022sp/notes/)
 - [ ] TBD [Random course on youtube](https://youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C)
 - [ ] [Reading list](https://www.msreverseengineering.com/program-analysis-reading-list/)
-
+- [ ] Introductory [blog](https://chinmaydd.in/2018/09/05/ProgramAnalysis/)
 ## Concepts
 
 - [Control Flow Graph](https://en.wikipedia.org/wiki/Control-flow_graph)
