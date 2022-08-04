@@ -22,6 +22,7 @@ A work-in-progress by someone who does not know much but is curious.
 - [ ] TBD [Random course on youtube](https://youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C)
 - [ ] [Reading list](https://www.msreverseengineering.com/program-analysis-reading-list/)
 - [ ] Introductory [blog](https://chinmaydd.in/2018/09/05/ProgramAnalysis/)
+- [ ] Graduate level [course](https://www.cs.cmu.edu/~aldrich/courses/15-819O-13sp/)
 ## Concepts
 
 - [Control Flow Graph](https://en.wikipedia.org/wiki/Control-flow_graph)
